@@ -1,6 +1,7 @@
 # Deploying Java Web Application using Docker and Kubernetes with DevOps SDLC Process
 
-![Thumbnail 4](https://github.com/BSatishSutar/docker-Java-kubernetes-project/assets/40925459/fb2c1b8e-444c-4e9f-9beb-161b051aed8d)
+![Thumbnail 4](https://github.com/BSatishSutar/Maven-Project/assets/40925459/e3f5de0e-ab19-4995-83e8-018402ecb759)
+
 
 This project showcases the deployment of a Java web application using Docker and Kubernetes, following a comprehensive DevOps Software Development Life Cycle (SDLC) process. The primary goal of the project is to provide a hands-on example of setting up a robust deployment pipeline for a Java-based web application in a containerized environment.
 
