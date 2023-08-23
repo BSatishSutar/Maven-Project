@@ -1,4 +1,4 @@
-# Deploying Java Web Application using Docker and Kubernetes with DevOps SDLC Process
+# Deploying Java Web Application using Docker and Kubernetes with DevOps SDLC Process.
 
 ![Project Thumbnail](https://github.com/BSatishSutar/Maven-Project/assets/40925459/e3f5de0e-ab19-4995-83e8-018402ecb759)
 
